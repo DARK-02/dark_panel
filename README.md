@@ -1,10 +1,12 @@
 # ADMIN-SAN
-**This is the official and only repository of the Admin-san project.**
+**This is the official and only repository of the dark_panel project.**
 
-Written by: [TheFuzzyRabbit](https://github.com/FuzzyRabbit) [@rabbit_fuzzy]
+Made: indonesia
+By: MR.DARK
+Subscribe channel MR.DARK ok ^_^
 
 # Features
-Admin-san is an open-source Asynchronous Admin Panel Finder made with Python3
+dark_panel is an open-source Asynchronous Admin Panel Finder made with Python3
 its one of the fastest Admin Panel Finders out there
 
 
@@ -26,14 +28,10 @@ $ sudo apt-get --force-yes -y install git python3 python3-pip
 
 ## Getting and Running Admin-san
 ```sh
-$ git clone https://github.com/WeebSec/admin-san.git
-$ cd admin-san
-$ sudo pip3 install -r requirements.txt
-$ python3 admin-san.py
-```
-
-### ScreenShot
-![shot](https://github.com/WeebSec/admin-san/blob/master/imgs/ss.png)
+$ git clone https://github.com/DARK-02/dark_panel.git
+$ cd dark_panel
+$ pip3 install -r requirements.txt
+$ python3 dark.py
 
 
 
